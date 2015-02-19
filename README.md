@@ -6,8 +6,8 @@ Using Gulp as a task runner, Jade as a template engine, and Coffeescript with Re
 
 The CSS stack is made up of:
 
-  -Stylus
-  -Jeet
-  -Axis
-  -Rupture
-  -Autoprefixer
+-Stylus
+-Jeet
+-Axis
+-Rupture
+-Autoprefixer
